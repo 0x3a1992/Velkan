@@ -1,7 +1,7 @@
 # Velkan
 Velkan é uma ferramenta de brute force em sub-dominios 
 
-<img src="./pictures/banner.png" width="200" height="423">
+<img src="./pictures/banner.png" width="423" height="200">
 
 ## ⚙️ Pré-requisitos
 
@@ -17,7 +17,7 @@ Um Guia rapido de instalação e uso
 2. Instale as livrarias pip3 install -r requirements.txt
 3. Execute com  python3 main.py -u https://example.com -w wordlist.txt
 ```
-<img src="./pictures/exec.png" width="498" height="976">
+<img src="./pictures/exec.png" width="976" height="498">
 
 ## 🔨 Obrigado para:
 Ygão && oppsec 
