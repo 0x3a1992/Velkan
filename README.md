@@ -22,7 +22,7 @@ foto em ação
 
 
 ## 🔨 Obrigado para:
-Ygão && oppsec && SrLups
+Ygão && oppsec 
 
 
 ## Siga-me 
